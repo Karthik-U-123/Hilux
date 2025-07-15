@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dear
+=======
+good morning
+>>>>>>> first
